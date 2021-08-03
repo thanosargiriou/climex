@@ -1,0 +1,15 @@
+# Private files
+*.csv
+*.xls
+*.xlsx
+*.png
+
+# MISH files
+*.res
+
+# gadm36 files
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
